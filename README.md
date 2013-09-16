@@ -1,4 +1,4 @@
-#Eight Facts Starter KIt
+#Eight Facts Starter Kit
 
 ###Author(s): Jim O'Neil
 ###Date: 9.16.2013
