@@ -9,7 +9,7 @@
 ----------
 ##Description
 
-The Eight Facts Starter is a Construct 2 game template is a simple educational app template for which you provide a theme that has eight interesting facts. You supply an image, a short fact title and a fact narrative (the latter two in an XML file that's part of the project).
+The Eight Facts Starter Kit is a Construct 2 game template is a simple educational app template for which you provide a theme that has eight interesting facts. You supply an image, a short fact title and a fact narrative (the latter two in an XML file that's part of the project).
 
 **Note: this template is optimized for Windows 8. Updates are planned to improve the experience for both Windows 8.1 and Windows Phone 8** 
 
