@@ -3,7 +3,6 @@
 ###Author(s): Jim O'Neil
 ###Date: 9.16.2013
 ###Version: v1.0.0
-###Author(s): Jim O'Neil
 ###URL: https://github.com/wingamekits/EightFacts
 
 ----------
@@ -16,7 +15,7 @@ The Eight Facts Starter Kit is a simple educational app template in Construct 2 
 Default starter kit page
 ![Template](8facts.png)
 
-Customized page from ["12 Labors of Heracles" in the Windows Store][4].
+Customized screen from ["12 Labors of Heracles" in the Windows Store][4].
 ![Completed application](8facts2.png)
 
 
