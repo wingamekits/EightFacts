@@ -20,7 +20,7 @@ The Eight Facts Starter is a Construct 2 game template is a simple educational a
 
  - Windows 8
  - [Visual Studio 2012 Express for Windows 8][1] or higher
- - [Construct 2][1] free edition
+ - [Construct 2][2] free edition
  
 **Note: this template is optimized for Windows 8. Updates are planned to improve the experience for both Windows 8.1 and Windows Phone 8** 
 
