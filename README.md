@@ -1,33 +1,33 @@
 #Eight Facts Starter KIt
 
-#Author(s): Jim O'Neil
-#Date: 9.16.2013
-#Version: v1.0.0
-#Author(s): Jim O'Neil
-#URL: https://github.com/wingamekits/EightFacts
+###Author(s): Jim O'Neil
+###Date: 9.16.2013
+###Version: v1.0.0
+###Author(s): Jim O'Neil
+###URL: https://github.com/wingamekits/EightFacts
 
 ----------
-###Description
+##Description
 
 The Eight Facts Starter is a Construct 2 game template is a simple educational app template for which you provide a theme that has eight interesting facts. You supply an image, a short fact title and a fact narrative (the latter two in an XML file that's part of the project).
 
 **Note: this template is optimized for Windows 8. Updates are planned to improve the experience for both Windows 8.1 and Windows Phone 8** 
 
-Base template
+Default starter kit page
 ![Template](8facts.png)
 
-Completed application ["12 Labors of Heracles" in the Windows Store][4].
+Customized page from ["12 Labors of Heracles" in the Windows Store][4].
 ![Completed application](8facts2.png)
 
 
-###Requirements
+##Requirements
 
  - Windows 8
  - [Visual Studio 2012 Express for Windows 8][1] or higher
  - [Construct 2][1] free edition
  
 
-###Setup and Customization
+##Setup and Customization
  - Download the starter kit ZIP file and extract its contents
  - Open the *EightFacts.capx* file in Construct 2
  - Follow the customization steps in the *CustomizeGameHere* event sheet
